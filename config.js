@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bé mớ ơii :3',
-    introDesc: ` có biết cái này làm gì hongg,
+    introDesc: ` 'có biết cái này làm gì hongg',
     btnIntro: 'hong biết thì click vào đây nèe :3',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -12,4 +12,5 @@ const CONFIG = {
     mess: 'Thong biết mà 🥰. Yêu mớ nhiều nhiều 😘😘',
     messDesc: 'Tối nay 9h qua đón mớ nhaa.',
     btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.messenger.com/t/100005360730332'
 }
