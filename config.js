@@ -1,16 +1,19 @@
 const CONFIG = {
-    introTitle: 'Bé mớ ơii :3',
-    introDesc: ` 'có biết cái này làm gì hongg',
-    btnIntro: 'hong biết thì click vào đây nèe :3',
+    introTitle: 'Mớ ớii!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Chọn cái này là k yeu thong :(',
-    btnNo: 'chọn cái này là thích thong :3',
-    question:'Hiện cái này là biet chọn k yêu thong r :(',
-    btnReply: 'Say something to thong <3',
-    reply: 'chọn khong yêu nma yêu thì yêu khong yêu thì yêu 🥰 ',
+    btnYes: 'Hong yêu thong xíu nàoo',
+    btnNo: 'Yêu thong <3',
+    question:'đến đây là biết chọn khong yêu ròi :(',
+    btnReply: 'Say something - -',
+    reply: 'Chọn khong yêu nma yêu thì yêu không yêu thì yêu <33333333',
     mess: 'Thong biết mà 🥰. Yêu mớ nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 9h qua đón mớ nhaa.',
+    messDesc: 'Tối nay 9h anh qua đón nhaa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.messenger.com/t/100005360730332'
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
